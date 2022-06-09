@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "cbbd100db6ae4e32",
+    "type": "split",
+    "children": [
+      {
+        "id": "418af8aeea52c992",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "blog/Activity.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b203d0c3f88da6eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "920ee84cf2f92983",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ad9022207f78176",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3cf74c7f79264f22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b55660df25b2eb6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c169b46588b8dbb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b417dacff1d0fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb959ffc7c410d15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/Activity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f682a6f7c179f4b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blog/Activity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 171,
+    "collapsed": true
+  },
+  "active": "418af8aeea52c992",
+  "lastOpenFiles": [
+    "blog/Activity.md",
+    "daily/Thu, Jun 09, 2022.md",
+    "codes/vultr.md",
+    "images/sensations_note.png",
+    "sisyphus_orange.md",
+    "images/sisyphus_orange.png"
+  ]
+}
