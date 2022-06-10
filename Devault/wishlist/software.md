@@ -1,0 +1,7 @@
+- [ ] obsidian gallery importer
+	- add images to a folder inside obsidian
+	- rearrange them manually or randomly
+- [ ] obsidian wishlist item adder
+	- title
+	- description (.md)
+	- adds the items to `wishlist/{category}/{item name}`

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "418af8aeea52c992",
+        "id": "339c96bcaa10cb3f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog/Activity.md",
+            "file": "todo.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/Activity.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,26 +94,65 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/Activity.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "2e04fa517ec2935a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7a4f1eebd326dbe",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          },
+          {
+            "id": "15553c1a66496992",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "919385e14f129491",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 171,
-    "collapsed": true
+    "width": 383.5
   },
-  "active": "418af8aeea52c992",
+  "active": "339c96bcaa10cb3f",
   "lastOpenFiles": [
-    "blog/Activity.md",
-    "daily/Thu, Jun 09, 2022.md",
-    "codes/vultr.md",
-    "images/sensations_note.png",
-    "sisyphus_orange.md",
-    "images/sisyphus_orange.png"
+    "todo.md",
+    "life lessons.md",
+    "wishlist/vehicles.md",
+    "wishlist/tech.md",
+    "wishlist/clothes.md",
+    "images/random/uneven_titles.png",
+    "images/blog/stoneage_knife.jpeg",
+    "images/blog/sisyphus_orange.png",
+    "images/blog/sensations_note.png",
+    "images/blog/diminishing_amplitude.png"
   ]
 }

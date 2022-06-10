@@ -1,0 +1,41 @@
+/* Audio files */
+.theme-dark audio {
+  filter:none;
+}
+.theme-dark audio::-webkit-media-controls-panel {
+  filter:invert(1);
+}
+audio {
+  height:36px;
+  border-radius:4px;
+}
+audio::-webkit-media-controls-enclosure {
+  border:1px solid var(--background-modifier-border);
+  background-color:var(--background-secondary);
+}
+audio::-webkit-media-controls-current-time-display {
+  color:var(--text-normal);
+  font-family:var(--font-ui);
+  font-size:var(--font-adaptive-small);
+  text-shadow:none;
+}
+audio::-webkit-media-controls-time-remaining-display {
+  color:var(--text-muted);
+  font-family:var(--font-ui);
+  font-size:var(--font-adaptive-small);
+  text-shadow:none;
+}
+
+audio::-webkit-media-controls-panel {
+  padding:2px 1.5px;
+}
+audio::-webkit-media-controls input[pseudo="-internal-media-controls-overflow-button" i]:enabled:hover::-internal-media-controls-button-hover-background {
+  background-color:transparent;
+}
+
+.theme-dark {
+  audio::-webkit-media-controls-current-time-display,
+  audio::-webkit-media-controls-time-remaining-display {
+    filter:invert(1);
+  }
+}

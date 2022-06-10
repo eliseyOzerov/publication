@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Primary",
-  "translucency": false,
+  "cssTheme": "Minimal",
+  "translucency": true,
   "baseFontSize": 16
 }
