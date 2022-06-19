@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "339c96bcaa10cb3f",
+        "id": "ee079de146a3bcb2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "todo.md",
+            "file": "strategy/Mojster.app.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "strategy/Mojster.app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "strategy/Mojster.app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,23 +136,24 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
-  "active": "339c96bcaa10cb3f",
+  "active": "ee079de146a3bcb2",
   "lastOpenFiles": [
-    "todo.md",
-    "life lessons.md",
-    "wishlist/vehicles.md",
-    "wishlist/tech.md",
-    "wishlist/clothes.md",
-    "images/random/uneven_titles.png",
-    "images/blog/stoneage_knife.jpeg",
-    "images/blog/sisyphus_orange.png",
-    "images/blog/sensations_note.png",
-    "images/blog/diminishing_amplitude.png"
+    "strategy/Mojster.app.md",
+    "strategy/career.md",
+    "schedule/workday template.md",
+    "strategy/finance.md",
+    "journal/Tuesday, Jun 14, 22.md",
+    "journal/Wednesday, Jun 15, 22.md",
+    "resources/programming.md",
+    "resources/programming/Untitled.md",
+    "journal/Friday, Jun 10, 2022.md",
+    "journal/Monday, Jun 13, 22.md"
   ]
 }

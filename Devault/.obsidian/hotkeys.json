@@ -8,12 +8,22 @@
       "key": "T"
     }
   ],
-  "app:delete-file": [
+  "buttons:inline-button": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "Backspace"
+      "key": "B"
+    }
+  ],
+  "obsidian-minimal-settings:toggle-minimal-img-grid": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
     }
   ]
 }

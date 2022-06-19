@@ -2,7 +2,9 @@
 	- [x] fix certain theme colors
 		- [x] install minimal theme
 		- [x] set all colors to default
-	- [ ] add all the notes you can think of
+	- [x] add all the notes you can think of
+	- [ ] figure out how to add cards
+	- [ ] add cards for wishlist, inventory
 	- [ ] customize plugin settings
 	- [ ] setup a dashboard to work in
 

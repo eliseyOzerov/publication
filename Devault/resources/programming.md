@@ -1,0 +1,1 @@
+[REST vs gRPC (and protobuffers)](https://www.toptal.com/grpc/grpc-vs-rest-api?utm_campaign=%5BPubs%5D%20CRMTEST_Engineering_Newsletter_2022&utm_medium=email&_hsmi=215533297&utm_content=215533297&utm_source=hs_automation)
